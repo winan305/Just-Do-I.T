@@ -11,3 +11,6 @@ for c in str(abc) :
 
 for i in range(10) :
     print(count[i])
+
+
+adkmakdsmakaksf
