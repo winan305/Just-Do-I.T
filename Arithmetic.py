@@ -7,3 +7,7 @@ print(A-B)
 print(A*B)
 print(A//B)
 print(A%B, end='')
+ttt
+tttt
+t
+tttttttttt
